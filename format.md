@@ -1,5 +1,5 @@
-# [Your Name]
+# Manish
 
-## [Your Year and Stream]
+## BCA First Year
 
-## [Add the languages/frameworks you work on comma separated]
+## C++, HTML, CSS
